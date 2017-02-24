@@ -1,0 +1,25 @@
+{
+  "name": "@dvhb/eslint-config",
+  "version": "1.0.0",
+  "description": "dvhb eslint config",
+  "main": "index.js",
+  "files": [
+    "src",
+    "index.js"
+  ],
+  "keywords": [
+    "dvhb",
+    "eslint"
+  ],
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Aleksey Subbotenko <asu@dvhb.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "7.1.1"
+  },
+  "devDependencies": {
+    "eslint": "3.16.x"
+  }
+}
