@@ -2,5 +2,5 @@
  * dvhb rules
  */
 module.exports = {
-  "quotes": [2, "single"],
+  'quotes': [2, 'single'],
 };
