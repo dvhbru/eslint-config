@@ -1,4 +1,1 @@
-module.exports = Object.assign(
-  Object.create(null),
-  require('./dvhb')
-);
+module.exports = Object.assign(Object.create(null), require('./dvhb'), require('./prettier'));
